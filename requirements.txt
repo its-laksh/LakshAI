@@ -1,0 +1,6 @@
+vosk
+gpt4all
+pyaudio
+opencv-python
+tk
+numpy
